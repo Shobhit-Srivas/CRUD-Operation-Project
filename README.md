@@ -41,6 +41,9 @@ This project aims to strengthen understanding of JavaScript fundamentals, partic
 
 📄 Pagination for large datasets
 
+🔐 Form validation improvements
+
+🌙 Dark mode support
 
 
 ## 📷 Project Output Preview
@@ -49,8 +52,3 @@ This project aims to strengthen understanding of JavaScript fundamentals, partic
 <img width="1920" height="973" alt="CRUD_Image1" src="https://github.com/user-attachments/assets/314f1c4a-3471-4f40-b5c3-932feb7e0b7b" /><br><br><br>
 <img width="1920" height="967" alt="CRUD_Image2" src="https://github.com/user-attachments/assets/1cac615b-d2e0-4cac-93f2-e5256e0fa3af" /><br><br><br>
 <img width="1920" height="977" alt="CRUD_Image3" src="https://github.com/user-attachments/assets/25fb8cb5-d4ce-4de8-a28f-9020fe52550a" />
-
-
-🔐 Form validation improvements
-
-🌙 Dark mode support
